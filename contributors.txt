@@ -1,0 +1,2 @@
+Curran Lipsett - Began Summer of 2014
+All source code was written by Curran Lipsett with no outside code being pulled in.
